@@ -9,7 +9,7 @@
    <author href="http://phonegap.com" email="support@phonegap.com"></author>
 
    <preference name="permissions" value="none"/>
-   <preference name="phonegap-version" value="4.0.0" /> 
+   <preference name="phonegap-version" value="3.7.0" /> 
    <preference name="orientation" value="portrait" />
    <preference name="target-device" value="universal" />
    <preference name="android-minSdkVersion" value="7" />
